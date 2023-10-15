@@ -1,3 +1,16 @@
+# Study Notion
+Study Notion is fully responsive EdTech platform using the MERN Stack.
+
+# Features
+1)It provides secure user registration and authentication using JWT (JSON Web Tokens). Users can sign up, log in, and manage their profiles with ease.
+
+2) Study Notion integrate with Razorpay for payment processing . User can make secure payment for course enrollment and other services using various payment methods 
+   supported by Razorpay.
+   
+4) Instructor have access to have comprehensive dashboard to view the information about their courses ,student and income.
+
+5) The dashboard provide the charts and visualizations to present the data clearly and intuitively. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
